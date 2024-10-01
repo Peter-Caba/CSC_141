@@ -1,4 +1,4 @@
-My_foods = ['cheese cake', 'ceral', 'pizza', 'pasta']
+My_foods = ['cheese cake', 'cereal', 'pizza', 'pasta']
 for i in My_foods:
     print("My favorite foods are "  +  i)
 
