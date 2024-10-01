@@ -1,3 +1,4 @@
+# Setting up the first code with car and favorite_cars
 car = 'jeep'
 favorite_cars = [ 'jeep', 'bmw', 'honda', 'bus', ]
 
