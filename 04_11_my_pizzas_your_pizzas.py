@@ -1,4 +1,4 @@
-pizza= ['chicken', 'shrimp', 'sausuge', 'bacon', 'cheese']
+pizza= ['chicken', 'shrimp', 'sausage', 'bacon', 'cheese']
 friend_pizza= ['mushroom' ,'pineapple' ,'bacon' ,'fish' , 'cheese']
 
 for i in pizza:
